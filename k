@@ -1,1 +1,2 @@
 "new" 
+'fixed bug' 
